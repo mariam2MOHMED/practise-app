@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBGUGLXhPka5CliQQ8TCJ4t7jHYo91gUdk',
-    appId: '1:230088122349:android:7d9cd326ddb4386f4c51e4',
-    messagingSenderId: '230088122349',
-    projectId: 'fiebase-distrbution',
-    storageBucket: 'fiebase-distrbution.firebasestorage.app',
+    apiKey: 'AIzaSyB2onU1cEU1T8oSdSqlrpummJs7G35qLUA',
+    appId: '1:617985547126:android:83fa9a443d7cdde94d3857',
+    messagingSenderId: '617985547126',
+    projectId: 'fir-app-distribution-87d97',
+    storageBucket: 'fir-app-distribution-87d97.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAZataB-5XWEV39eoCFzV4AsifzOd3lFSo',
-    appId: '1:230088122349:ios:6019dc9058da8d434c51e4',
-    messagingSenderId: '230088122349',
-    projectId: 'fiebase-distrbution',
-    storageBucket: 'fiebase-distrbution.firebasestorage.app',
+    apiKey: 'AIzaSyB1M4bP21bQlc7cxO7R4GoGVvq7cO_Xr3k',
+    appId: '1:617985547126:ios:c48de12d2adedcee4d3857',
+    messagingSenderId: '617985547126',
+    projectId: 'fir-app-distribution-87d97',
+    storageBucket: 'fir-app-distribution-87d97.firebasestorage.app',
     iosBundleId: 'com.example.practise',
   );
+
 }

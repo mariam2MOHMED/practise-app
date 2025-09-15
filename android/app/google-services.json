@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "230088122349",
-    "project_id": "fiebase-distrbution",
-    "storage_bucket": "fiebase-distrbution.firebasestorage.app"
+    "project_number": "617985547126",
+    "project_id": "fir-app-distribution-87d97",
+    "storage_bucket": "fir-app-distribution-87d97.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:230088122349:android:7d9cd326ddb4386f4c51e4",
+        "mobilesdk_app_id": "1:617985547126:android:83fa9a443d7cdde94d3857",
         "android_client_info": {
           "package_name": "com.example.practise"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBGUGLXhPka5CliQQ8TCJ4t7jHYo91gUdk"
+          "current_key": "AIzaSyB2onU1cEU1T8oSdSqlrpummJs7G35qLUA"
         }
       ],
       "services": {
