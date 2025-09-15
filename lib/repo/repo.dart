@@ -5,7 +5,7 @@ class RepoServices{
   final ApiServices _apiServices;
   RepoServices(this._apiServices);
   Future<List<User>>getAllUsers()async{
-    var response=await _apiServices.getAllUsers();
+    var response  =await _apiServices.getAllUsers();
     return response.map((user)=>User.fromJson(user.toJson())).toList();
   }
   Future<User>getSingleUsers(int id)async{
