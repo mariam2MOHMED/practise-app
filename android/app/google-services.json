@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230088122349",
+    "project_id": "fiebase-distrbution",
+    "storage_bucket": "fiebase-distrbution.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230088122349:android:7d9cd326ddb4386f4c51e4",
+        "android_client_info": {
+          "package_name": "com.example.practise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUGLXhPka5CliQQ8TCJ4t7jHYo91gUdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
