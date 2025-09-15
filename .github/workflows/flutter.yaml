@@ -23,10 +23,10 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
-      - name: Install Flutter 3.24.5
+      - name: Install Flutter (latest stable)
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.35.5'
+          channel: 'stable'
 
       - name: Disable Flutter Analytics
         run: flutter config --no-analytics
