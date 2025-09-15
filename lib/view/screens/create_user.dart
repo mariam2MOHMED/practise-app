@@ -11,7 +11,7 @@ class createUserScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return BlocProvider(create: (context)=>getit<PractiseCubit>()..createNewUser(
-        User( name: "mariam", email: "mariam6@gmail.com",
+        User( name: "mariam mohmed", email: "mariam6@gmail.com",
             gender: "female", status: "active"), "Bearer a22ac459796d1a824fe485aee3e8c401d1e5b30e2a64dea82b97775ecef86e98"),
       child: BlocBuilder<PractiseCubit,PractiseStates>
       (builder: (context,state){
