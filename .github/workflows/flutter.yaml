@@ -59,6 +59,6 @@ jobs:
         uses: wzieba/Firebase-Distribution-Github-Action@v1
         with:
           appId: ${{1:617985547126:android:83fa9a443d7cdde94d3857}}
-          serviceCredentialsFileContent: ${{ secrets.GOOGLE_CREDENTIALS }}
+          serviceCredentialsFileContent: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
           groups: testers
           file: build/app/outputs/flutter-apk/app-release.apk
